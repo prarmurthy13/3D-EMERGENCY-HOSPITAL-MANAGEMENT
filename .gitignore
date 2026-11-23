@@ -1,0 +1,11 @@
+﻿# Code::Blocks temporary & user-specific files
+*.depend
+*.layout
+*.save
+
+# Build outputs and binaries
+bin/
+obj/
+*.o
+*.obj
+*.exe
